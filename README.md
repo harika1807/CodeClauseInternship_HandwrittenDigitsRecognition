@@ -31,5 +31,6 @@ The project uses the popular MNIST dataset which consists of 28x28 grayscale ima
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/haari1807/CodeClauseInternship_HandwrittenDigitsRecognition.git
+   git clone https://github.com/harika1807/CodeClauseInternship_HandwrittenDigitsRecognition.git
    cd CodeClauseInternship_HandwrittenDigitsRecognition
+

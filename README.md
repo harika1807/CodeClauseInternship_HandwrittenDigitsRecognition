@@ -1,5 +1,5 @@
 # 🧠 Handwritten Digit Sequence Recognition
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haari1807/CodeClauseInternship_HandwrittenDigitsRecognition/blob/main/HandWrittenDigitsRecognition.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harika1807/CodeClauseInternship_HandwrittenDigitsRecognition/blob/main/HandWrittenDigitsRecognition.ipynb)
 
 
 This project implements a deep learning model using TensorFlow to recognize sequences of handwritten digits. The model takes a sequence of 3 handwritten digits (from the MNIST dataset) joined side by side and predicts the digits in order.
